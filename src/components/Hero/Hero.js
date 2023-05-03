@@ -16,6 +16,7 @@ const Hero = () => {
           Veteran Owned Small Business (SDVOSB) located in the Greater Tampa Bay
           Area.
         </p>
+        <button>button</button>
       </div>
     </div>
   );

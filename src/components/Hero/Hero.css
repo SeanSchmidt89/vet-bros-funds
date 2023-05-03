@@ -1,6 +1,7 @@
 .hero {
   width: 100%;
   height: 100vh;
+  z-index: 1;
 }
 
 .hero img {
@@ -32,4 +33,8 @@
 .hero-text h1 {
   font-family: "dancing script";
   font-weight: 700;
+}
+
+.hero button {
+  cursor: pointer;
 }
