@@ -1,5 +1,5 @@
 import React from "react";
-import HeroImg from "../../assests/hero.jpg";
+import HeroImg from "../../assests/hero2.jpg";
 import "./Hero.css";
 
 const Hero = () => {
@@ -9,13 +9,13 @@ const Hero = () => {
       <div className="overlay" />
       <div className="hero-text">
         <h1>Vet Bros Funds</h1>
-        <p>Based in Florida</p>
-        <p>Veteran Owned</p>
         <p>
           Vet Bros Funds is an independently owned and operated Service Disabled
           Veteran Owned Small Business (SDVOSB) located in the Greater Tampa Bay
           Area.
         </p>
+        <p>Based in Florida</p>
+        <p>Veteran Owned</p>
         <button>button</button>
       </div>
     </div>
