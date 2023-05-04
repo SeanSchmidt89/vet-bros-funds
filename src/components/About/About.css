@@ -1,5 +1,43 @@
 .about {
-  height: 800px;
+  position: relative;
+  height: 100vh;
   background-color: black;
   color: white;
+}
+
+.about img {
+  height: 100vh;
+  width: 100%;
+  object-fit: cover;
+}
+
+.about-text {
+  padding-left: 34%;
+  /* padding-right: 50%; */
+  padding-bottom: 4rem;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+
+.about-text h1 {
+  font-family: "dancing script";
+  font-size: 5.3rem;
+  font-weight: 700;
+  margin-bottom: 0.1rem;
+}
+
+.about button {
+  cursor: pointer;
+}
+
+.about p {
+  text-align: center;
+  max-width: 330px;
 }

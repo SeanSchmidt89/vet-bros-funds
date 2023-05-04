@@ -1,5 +1,5 @@
 import React from "react";
-import HeroImg from "../../assests/hero2.jpg";
+import HeroImg from "../../assests/hero9.jpg";
 import "./Hero.css";
 
 const Hero = () => {
@@ -14,8 +14,8 @@ const Hero = () => {
           Veteran Owned Small Business (SDVOSB) located in the Greater Tampa Bay
           Area.
         </p>
-        <p>Based in Florida</p>
-        <p>Veteran Owned</p>
+        {/* <p>Based in Florida</p>
+        <p>Veteran Owned</p> */}
         <button>button</button>
       </div>
     </div>
