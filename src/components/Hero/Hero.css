@@ -11,17 +11,17 @@
   position: absolute;
 }
 
-.overlay {
+.hero .overlay {
   width: 100%;
   height: 100vh;
-  background-color: rgba(0, 0, 0, 0.65);
+  background-color: rgba(0, 0, 0, 0.35);
   position: absolute;
 }
 
 .hero-text {
   /* padding-left: 30%; */
-  padding-right: 50%;
-  padding-bottom: 8rem;
+  /* padding-right: 50%; */
+  padding-bottom: 5rem;
   position: absolute;
   width: 100%;
   height: 100%;

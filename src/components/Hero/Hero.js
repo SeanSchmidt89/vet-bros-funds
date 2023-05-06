@@ -1,5 +1,5 @@
 import React from "react";
-import HeroImg from "../../assests/hero9.jpg";
+import HeroImg from "../../assests/hero7.jpg";
 import "./Hero.css";
 
 const Hero = () => {
@@ -16,7 +16,7 @@ const Hero = () => {
         </p>
         {/* <p>Based in Florida</p>
         <p>Veteran Owned</p> */}
-        <button>button</button>
+        <button>Contect US</button>
       </div>
     </div>
   );

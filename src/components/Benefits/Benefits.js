@@ -6,6 +6,18 @@ const Benefits = () => {
   return (
     <div className="benefits" id="benefits">
       <img src={BenefitsImg} alt="/" />
+      <div className="overlay" />
+      <div className="benefits-text">
+        <h1>Benefits</h1>
+        <p>
+          Vet Bros Funds is an independently owned and operated Service Disabled
+          Veteran Owned Small Business (SDVOSB) located in the Greater Tampa Bay
+          Area.
+        </p>
+        {/* <p>Based in Florida</p>
+        <p>Veteran Owned</p> */}
+        <button>button</button>
+      </div>
     </div>
   );
 };
