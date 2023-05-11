@@ -11,7 +11,7 @@ const SideNav = () => {
         <a href="#hero">
           <AiOutlineHome size={20} />
         </a>
-        <a href="#mail">
+        <a href="#contact">
           <AiOutlineMail size={20} />
         </a>
         <a href="#about">
