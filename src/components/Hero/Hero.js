@@ -8,6 +8,10 @@ const Hero = () => {
       <img src={HeroImg} alt="/" />
       <div className="overlay" />
       <div className="hero-text">
+        <div className="bar-container">
+          <div className="top-bar" />
+          <div className="bottom-bar" />
+        </div>
         <h1>Vet Bros Funds</h1>
         <p>
           Vet Bros Funds is an independently owned and operated Service Disabled
