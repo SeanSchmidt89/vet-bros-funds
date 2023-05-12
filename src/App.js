@@ -10,8 +10,8 @@ function App() {
       <SideNav />
       <Hero />
       <Benefits />
-      <Contact />
       <About />
+      <Contact />
     </div>
   );
 }

@@ -9,6 +9,7 @@ const Contact = () => {
       <div className="overlay" />
       <div className="form-container">
         <form>
+          <h1>Contact Us</h1>
           <input />
           <button>send message</button>
         </form>

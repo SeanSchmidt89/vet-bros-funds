@@ -16,7 +16,7 @@ const Hero = () => {
         </p>
         {/* <p>Based in Florida</p>
         <p>Veteran Owned</p> */}
-        <button>Contect US</button>
+        <a href="#contact">Contect US</a>
       </div>
     </div>
   );
