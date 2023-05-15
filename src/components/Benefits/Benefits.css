@@ -15,7 +15,7 @@
   height: 100vh;
   position: absolute;
   top: 0;
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(0, 0, 0, 0.15);
 }
 
 .benefits .benefits-text {
@@ -23,7 +23,7 @@
   height: 100vh;
   position: absolute;
   top: 0;
-  padding-right: 40%;
+  padding-left: 34%;
   padding-bottom: 7rem;
   display: flex;
   flex-direction: column;

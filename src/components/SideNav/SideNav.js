@@ -15,11 +15,11 @@ const SideNav = () => {
         <a href="#benefits">
           <GiProgression size={20} />
         </a>
-        <a href="#about">
-          <GrDocumentText size={20} />
-        </a>
         <a href="#contact">
           <AiOutlineMail size={20} />
+        </a>
+        <a href="#about">
+          <GrDocumentText size={20} />
         </a>
       </div>
     </div>

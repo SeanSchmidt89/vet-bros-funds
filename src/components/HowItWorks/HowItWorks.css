@@ -1,0 +1,19 @@
+.howitworks {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+
+.howitworks img {
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+}
+
+.howitworks .overlay {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.3);
+}

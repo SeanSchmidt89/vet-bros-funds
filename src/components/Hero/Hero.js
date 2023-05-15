@@ -11,6 +11,8 @@ const Hero = () => {
         <div className="bar-container">
           <div className="top-bar" />
           <div className="bottom-bar" />
+          <div className="left-bar" />
+          <div className="right-bar" />
         </div>
         <h1>Vet Bros Funds</h1>
         <p>
