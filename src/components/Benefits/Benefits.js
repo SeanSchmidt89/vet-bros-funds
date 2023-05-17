@@ -14,8 +14,6 @@ const Benefits = () => {
           Veteran Owned Small Business (SDVOSB) located in the Greater Tampa Bay
           Area.
         </p>
-        {/* <p>Based in Florida</p>
-        <p>Veteran Owned</p> */}
         <button>button</button>
       </div>
     </div>

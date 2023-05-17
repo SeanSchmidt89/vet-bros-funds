@@ -17,3 +17,23 @@
   height: 100vh;
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+.howitworks-text {
+  width: 100%;
+  height: 100%;
+  padding-bottom: 4rem;
+  position: absolute;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+
+.howitworks-text h1 {
+  font-size: 4.3rem;
+  font-weight: 700;
+  font-family: "dancing script";
+  margin-bottom: 0.1rem;
+}

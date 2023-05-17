@@ -3,6 +3,7 @@ import { GiHamburgerMenu } from "react-icons/gi";
 import { AiOutlineHome, AiOutlineMail } from "react-icons/ai";
 import { GrDocumentText } from "react-icons/gr";
 import { GiProgression } from "react-icons/gi";
+import { GoTasklist } from "react-icons/go";
 import "./SideNav.css";
 
 const SideNav = () => {
@@ -14,6 +15,9 @@ const SideNav = () => {
         </a>
         <a href="#benefits">
           <GiProgression size={20} />
+        </a>
+        <a href="#howitworks">
+          <GoTasklist size={20} />
         </a>
         <a href="#contact">
           <AiOutlineMail size={20} />
