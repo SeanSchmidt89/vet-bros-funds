@@ -15,6 +15,7 @@ function App() {
       <Contact />
       <About />
     {/* add form, hook up to email, add discription of perks, how to  */}
+    {/* more notes */}
     </div>
   );
 }
