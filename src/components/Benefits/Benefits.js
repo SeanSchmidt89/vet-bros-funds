@@ -9,11 +9,16 @@ const Benefits = () => {
       <div className="overlay" />
       <div className="benefits-text">
         <h1>Benefits</h1>
-        <p>
-          Vet Bros Funds is an independently owned and operated Service Disabled
-          Veteran Owned Small Business (SDVOSB) located in the Greater Tampa Bay
-          Area.
-        </p>
+        <div>
+          <div className="atm-machines">
+            <p>ATM Machines</p>
+            <p>blah blah</p>
+          </div>
+          <div className="payment-processors">
+            <p>Payment Processors</p>
+            <p>blah blah blah</p>
+          </div>
+        </div>
         <button>button</button>
       </div>
     </div>
