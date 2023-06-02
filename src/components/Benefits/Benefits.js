@@ -17,7 +17,7 @@ const Benefits = () => {
               <span>
                 <AiOutlineCheckCircle size={22} />
               </span>
-              <p>Earn 25 - 75 Cents per transaction</p>
+              <p>Earn .25 ¢ - .75 ¢ per transaction</p>
             </div>
             <div className="pros-container">
               <span>
