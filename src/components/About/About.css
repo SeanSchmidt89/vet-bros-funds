@@ -47,4 +47,5 @@
 .about p {
   text-align: center;
   max-width: 330px;
+  letter-spacing: 0.01rem; 
 }

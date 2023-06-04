@@ -37,3 +37,7 @@
   font-family: "dancing script";
   margin-bottom: 0.1rem;
 }
+
+.howitworks p {
+  letter-spacing: 0.01rem; 
+}
