@@ -35,9 +35,12 @@
   font-size: 4.3rem;
   font-weight: 700;
   font-family: "dancing script";
-  margin-bottom: 0.1rem;
+  margin-bottom: 1.2rem;
 }
 
 .howitworks p {
-  letter-spacing: 0.01rem; 
+  width: 640px;
+  font-size: 1.2rem;
+  text-align: center;
+  letter-spacing: 0.02rem;
 }

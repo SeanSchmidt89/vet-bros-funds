@@ -1,6 +1,9 @@
-import React from "react";
+import React, { useState } from "react";
 import ContactImg from "../../assests/img6.jpg";
 import "./Contact.css";
+const formHandler = (e) => {
+  e.preventDefault();
+};
 
 const Contact = () => {
   return (
@@ -8,7 +11,7 @@ const Contact = () => {
       <img src={ContactImg} alt="/" />
       <div className="overlay" />
       <div className="form-container">
-        <form>
+        <form className="form-container-two" onSubmit={formHandler}>
           <h1>Contact Us</h1>
           <input />
           <button>send message</button>
@@ -19,3 +22,4 @@ const Contact = () => {
 };
 
 export default Contact;
+

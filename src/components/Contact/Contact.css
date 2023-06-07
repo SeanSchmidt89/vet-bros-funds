@@ -30,6 +30,7 @@
   flex-direction: column;
   align-items: center;
   color: white;
+  border: 1px solid red;
 }
 
 .contact h1 {
@@ -37,4 +38,9 @@
   font-weight: 700;
   font-family: "dancing script";
   margin-bottom: 0.1rem;
+}
+
+.contact .form-container-two {
+  width: 400px;
+  border: 1px green solid;
 }
