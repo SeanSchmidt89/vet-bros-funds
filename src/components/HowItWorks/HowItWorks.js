@@ -29,5 +29,5 @@ const HowItWorks = () => {
     </div>
   );
 };
-
+// notes to comp
 export default HowItWorks;
