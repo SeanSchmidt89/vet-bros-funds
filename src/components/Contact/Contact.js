@@ -13,8 +13,9 @@ const Contact = () => {
       <div className="form-container">
         <form className="form-container-two" onSubmit={formHandler}>
           <h1>Contact Us</h1>
-          <input />
-          <button>send message</button>
+          <input placeholder="Name" />
+          <textarea placeholder="Message" />
+          <button>SEND MESSAGE</button>
         </form>
       </div>
     </div>
@@ -22,4 +23,3 @@ const Contact = () => {
 };
 
 export default Contact;
-
