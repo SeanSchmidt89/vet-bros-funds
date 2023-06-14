@@ -23,3 +23,6 @@ const Contact = () => {
 };
 
 export default Contact;
+
+
+//notes
