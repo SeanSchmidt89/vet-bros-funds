@@ -42,6 +42,7 @@
 
 .contact .form-container-two {
   width: 500px;
+  position: relative;
 }
 
 .form-container input {
@@ -80,4 +81,12 @@
   transition: 0.8s;
   font-size: 1.04rem;
   background-color: rgba(41, 227, 41, 0.85);
+}
+
+.form-container .validation {
+  position: absolute;
+  top: 28.5rem;
+  left: 12.1rem;
+  font-size: 1.4rem;
+  color: rgba(41, 227, 41, 0.85);
 }
